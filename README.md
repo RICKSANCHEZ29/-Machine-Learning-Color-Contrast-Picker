@@ -1,3 +1,3 @@
-# -color-picker.github.io
+# color-picker.github.io
 
-# -Machine-Learning-Color-Contrast-Picker
+Machine-Learning-Color-Contrast-Picker
